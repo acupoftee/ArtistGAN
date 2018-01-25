@@ -14,3 +14,6 @@ DCGAN focused on generative art--landscapes, nude-portraits, and others. All art
 ### FlowerGAN 
 ![alt text](results/fake_samples_epoch_299.png?raw=true)
 
+### MarinaGAN 
+![alt text](results/fake_samples_epoch_291.png?raw=true)
+
