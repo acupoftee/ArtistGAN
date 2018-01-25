@@ -10,3 +10,6 @@ DCGAN focused on generative art--landscapes, nude-portraits, and others. All art
 
 ### CityscapeGAN 
 ![alt text](results/fake_samples_epoch_298.png?raw=true)
+
+### FlowerGAN 
+![alt text](results/fake_samples_epoch_299.png?raw=true)
