@@ -13,3 +13,6 @@ DCGAN focused on generative art--landscapes, nude-portraits, and others. All art
 
 ### FlowerGAN 
 ![alt text](results/fake_samples_epoch_299.png?raw=true)
+
+## Coming Soon
+While I've learned and applied new training techniques, I'm modifying the gan to produce larger results. Now that I have some good models to work with I'll also test a trained model with a different genre (i.e. apply an abstract gan with flowers, landscapes, etc)
