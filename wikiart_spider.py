@@ -1,6 +1,5 @@
 # Paintings for this beautiful experiment are from  https://www.wikiart.org/en/paintings-by-genre/ 
 # 1000 images from each genre will be used
-# Usually you'll need about 1000 images for a good GAN
 
 import os
 import urllib
@@ -13,13 +12,6 @@ from multiprocessing.dummy import Pool as ThreadPool
 
 # a list of tuples containing the name of the genre and the number of pages
 # 1000 pages for each genre will make a goog GAN
-# genres = [('portrait', 1000),
-#         ('landscape', 1000),
-#         ('genre-painting', 1000),
-#         ('abstract', 1000),
-#         ('landscape', 1000),
-#         ('landscape', 1000),]
-
 pages = 1000
 
 genres = ['portrait',
