@@ -5,9 +5,6 @@ DCGAN focused on generative art--landscapes, nude-portraits, and others. All art
 ### LandscapeGAN 
 ![alt text](results/fake_samples_epoch_099.png?raw=true)
 
-### LandscapeGAN 
-![alt text](results/fake_samples_epoch_099.png?raw=true)
-
 ### AbstractGAN 
 ![alt text](results/fake_samples_epoch_144.png?raw=true)
 
